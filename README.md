@@ -54,17 +54,17 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on delivery market project
+- 🌱 I’m currently learning Bloc / Cubit
+- 👯 I’m looking to collaborate on YouTube
+- 🤔 I’m looking for help with NodeJs
+- 💬 Ask me about every thing about Flutter developing
+- 📫 How to reach me:Telegram @Ravshanbek92
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: Question: What clouds are made of? A.From Linux servers
 -->
 
 -----
 Credits: [RavshanBK](https://github.com/ravshanbk/ravshanbk.git)
 
-Last Edited on: 30/08/2020
+Last Edited on: 14/02/2022
