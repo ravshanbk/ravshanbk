@@ -50,8 +50,10 @@
  <a href="#"><img src="https://img.shields.io/badge/-Provider-daeaf6?style=flat&logo=Provider&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-Bloc-daeaf6?style=flat-round&logo=Bloc&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-Cubit-daeaf6?style=flat-round&logo=Cubit&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Hydrated bloc-daeaf6?style=flat-round&logo=Hydrated_bloc&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-GetX-daeaf6?style=flat-round&logo=GetX&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-Hive-daeaf6?style=flat-round&logo=GetX&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-SharedPreferences-daeaf6?style=flat-round&logo=SharedPreferencesX&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-SqfLite-daeaf6?style=flat-round&logo=SqfLite&logoColor=107a8b"></a>
   
  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-daeaf6?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
