@@ -52,7 +52,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Hive-0D1117?style=flat-round&logo=GetX&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/-SqfLite-0D1117?style=flat-round&logo=SqfLite&logoColor=107a8b"></a>
   
-   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=107a8b"></a></strike>
+   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-round&logo=gnu-bash&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-round&logo=git&logoColor=107a8b"></a>
