@@ -44,7 +44,7 @@
    <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-round&logo=C&badge_color=497285&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a><br/>
-   <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a><h6>-</h6>
+   <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>-
   <a href="#"><img src="https://img.shields.io/badge/-Provider-0D1117?style=flat-round&logo=Provider&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bloc-0D1117?style=flat-round&logo=Bloc&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Cubit-0D1117?style=flat-round&logo=Cubit&logoColor=107a8b"></a>
