@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, Fellow!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="28"></a>
+<!--   <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="28"></a> -->
 </h1>
 
 <p align="center">   
