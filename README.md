@@ -30,7 +30,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=107a8b&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=497285&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
@@ -41,7 +41,7 @@
 <br/>
 
 <p align="center">
-   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Dart&badge_color=107a8b&logoColor=107a8b"></a>
+   <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=F0DB4F"></a>
