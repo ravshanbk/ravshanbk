@@ -4,9 +4,9 @@
 
 - 🌱 currently learning software architecture, TDD and ReactJs
 
-<a href="https://www.linkedin.com/in/victor-almeida-barros/?locale=en_US">
+<!-- <a href="https://www.linkedin.com/in/victor-almeida-barros/?locale=en_US">
   <img width="400px" src="https://raw.githubusercontent.com/victorabarros/victorabarros/master/assets/linkedin_profile.png" />
-</a>
+</a> -->
 
 
 <a href="https://github.com/victorabarros?tab=repositories">
