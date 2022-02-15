@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">   
-  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=107a8bF"></a>
-  <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=107a8b"></a> 
+  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-daeaf6?style=for-the-badge&logo=gmail&logoColor=107a8bF"></a>
+  <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-daeaf6?style=for-the-badge&logo=linkedin&logoColor=107a8b"></a> 
 <!--   <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a> -->
 </p>
@@ -41,26 +41,26 @@
 <br/>
 
 <p align="start">
- <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-round&logo=C&badge_color=497285&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-C-daeaf6?style=flat-round&logo=C&badge_color=497285&logoColor=107a8b"></a>
  <a href="#"><img src="https://img.shields.io/badge/-Python-daeaf6?style=flat-round&logo=Python&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Dart-daeaf6?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a>
   <br/><br/>
- <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Provider-0D1117?style=flat-round&logo=Provider&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Bloc-0D1117?style=flat-round&logo=Bloc&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Cubit-0D1117?style=flat-round&logo=Cubit&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-GetX-0D1117?style=flat-round&logo=GetX&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Hive-0D1117?style=flat-round&logo=GetX&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-SqfLite-0D1117?style=flat-round&logo=SqfLite&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Flutter-daeaf6?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Provider-daeaf6?style=flat-round&logo=Provider&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Bloc-daeaf6?style=flat-round&logo=Bloc&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Cubit-daeaf6?style=flat-round&logo=Cubit&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-GetX-daeaf6?style=flat-round&logo=GetX&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Hive-daeaf6?style=flat-round&logo=GetX&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-SqfLite-daeaf6?style=flat-round&logo=SqfLite&logoColor=107a8b"></a>
   
- <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-round&logo=mongodb&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-round&logo=amazon-dynamodb&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Strapi-0D1117?style=flat-round&logo=Strapi&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Nodejs-daeaf6?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-MongoDB-daeaf6?style=flat-round&logo=mongodb&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/SQL%20-%23daeaf6.svg?style=flat-round&logo=amazon-dynamodb&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Strapi-daeaf6?style=flat-round&logo=Strapi&logoColor=107a8b"></a>
 <!--  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-round&logo=github&logoColor=107a8b"></a> -->
- <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-round&logo=git&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-round&logo=github&logoColor=107a8b"></a>
- <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-round&logo=gnu-bash&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Git-daeaf6?style=flat-round&logo=git&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-GitHub-daeaf6?style=flat-round&logo=github&logoColor=107a8b"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Bash%20-%23daeaf6.svg?style=flat-round&logo=gnu-bash&logoColor=107a8b"></a>
   
 </p>
 
