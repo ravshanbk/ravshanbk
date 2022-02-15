@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">   
-  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
-  <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
+  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=107a8bF"></a>
+  <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=107a8b"></a> 
 <!--   <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a> -->
 </p>
@@ -42,7 +42,9 @@
 
 <p align="center">
    <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
+  fasdfasdf
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-round&logo=gnu-bash&logoColor=107a8b"></a>
