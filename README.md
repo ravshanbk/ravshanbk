@@ -19,9 +19,9 @@
 <br/>
 
 <diV>
-
+<!-- 40514e -->
   <div align="center">
-    <a href="#"><img alt="Ravshanbek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravshanbk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=40514e&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Ravshanbek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravshanbk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=107a8bF&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <a href="#"><img alt="Ravshanbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravshanbk&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=107a8b&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
@@ -30,7 +30,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=107a8b&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
