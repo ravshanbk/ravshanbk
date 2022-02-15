@@ -2,10 +2,8 @@
 
 
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-| :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![https://raw.githubusercontent.com/Israel-Laguan/Israel-Laguan/master/docs/banner.jpg][]
-
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGif8ErC4N_sg/profile-displaybackgroundimage-shrink_200_800/0/1644901651526?e=1650499200&v=beta&t=dpg-Mx_6fTMNA-waWDbu0rHhZI4NK5mJexlwpalvlQQ"
+/>
 ## Some stats for the geeky ones
 
 ### All repos
