@@ -41,7 +41,7 @@
 <br/>
 
 <p align="start">
-   <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-round&logo=C&badge_color=497285&logoColor=107a8b"></a>
+  <h1>🔸 <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-round&logo=C&badge_color=497285&logoColor=107a8b"></a></h1>
    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a><br/>
    <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>-
