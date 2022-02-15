@@ -30,7 +30,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=497285&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Ravshanbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravshanbk&custom_title=Ravshanbek%20Xojamuratov's%20Contribution%20Graph&bg_color=6fc2d0&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
