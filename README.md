@@ -4,7 +4,7 @@
 
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![https://raw.githubusercontent.com/Israel-Laguan/Israel-Laguan/master/docs/banner.jpg][]
 
 ## Some stats for the geeky ones
 
