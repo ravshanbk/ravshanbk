@@ -1,18 +1,24 @@
-# Hi there, I'm Victor Barros! 👋
+### Hi there, I'm WEGFan! 👋
 
-<h3>Passionate about entrepreneurship, technology and economics.</h3>
-
-- 🌱 currently learning NodeJS and Rivirpod
-
-<a href="https://www.https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218">
-  <img width="400px" src="https://raw.githubusercontent.com/victorabarros/victorabarros/master/assets/linkedin_profile.png" />
+<a href="https://github.com/WEGFan">
+  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
 </a>
 
-            
+### My latest projects
 
-
-<a href="https://github.com/ravshanbk?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravshanbk&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+<a href="https://github.com/WEGFan/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+</a>
+<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
 </a>
 
-⭐️ From [ravshanbk](https://github.com/ravshanbk/ravshanbk)
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/WEGFan">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+
+---
+
+⭐️ From [WEGFan](https://github.com/WEGFan)
