@@ -1,10 +1,10 @@
 <h1 align="center">
   Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="118"></a>
+  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="18"></a>
 </h1>
 
 <p align="center">   
-  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+  <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
   <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
 <!--   <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a> -->
