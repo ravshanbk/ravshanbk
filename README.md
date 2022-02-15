@@ -41,7 +41,8 @@
 <br/>
 
 <p align="start">
-   <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a>
+   <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Hive&badge_color=497285&logoColor=107a8b"></a>
+  
    <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
    <ul>
    <li>Sometheing </li> 
