@@ -1,8 +1,6 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
 
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
@@ -13,7 +11,7 @@
 ### All repos
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+  src="https://media-exp1.licdn.com/dms/image/C4D16AQGif8ErC4N_sg/profile-displaybackgroundimage-shrink_200_800/0/1644901651526?e=1650499200&v=beta&t=dpg-Mx_6fTMNA-waWDbu0rHhZI4NK5mJexlwpalvlQQ"
 />
 
 ### Public repos
