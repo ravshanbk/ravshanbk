@@ -41,20 +41,15 @@
 <br/>
 
 <p align="center">
- 
+  <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-round&logo=gnu-bash&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-round&logo=git&logoColor=F0DB4F"></a>
- 
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-round&logo=mongodb&logoColor=F0DB4F"></a>
- 
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-round&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
- 
   <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-round&logo=github&logoColor=F0DB4F"></a>
- 
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-round&logo=github&logoColor=F0DB4F"></a>
- 
 </p>
 
 <br/>
