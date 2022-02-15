@@ -45,9 +45,13 @@
    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Dart-0D1117?style=flat-round&logo=Dart&badge_color=497285&logoColor=107a8b"></a><br/>
    <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-round&logo=Flutter&logoColor=107a8b&labelColor=https://img.shields.io"></a>
-<ul><li>Sometheing </li> 
-   <li>Sometheing </li> 
-   <li>Sometheing </li> </ul>
+  
+  <a href="#"><img src="https://img.shields.io/badge/-Provider-0D1117?style=flat-round&logo=Provider&logoColor=107a8b"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bloc-0D1117?style=flat-round&logo=Bloc&logoColor=107a8b"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Cubit-0D1117?style=flat-round&logo=Cubit&logoColor=107a8b"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GetX-0D1117?style=flat-round&logo=GetX&logoColor=107a8b"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Hive-0D1117?style=flat-round&logo=Hive&logoColor=107a8b"></a>
+  
    <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-round&logo=Node.js&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-round&logo=Python&logoColor=107a8b"></a>
    <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-round&logo=gnu-bash&logoColor=107a8b"></a>
