@@ -5,7 +5,7 @@
 
 <p align="center">   
   <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-daeaf6?style=for-the-badge&logo=gmail&logoColor=107a8bF"></a>
-  <a href="https://t.me/Ravshanbek92" target="_blank"><img src="https://img.shields.io/badge/-Telegram-daeaf6?style=for-the-badge&logo=telegram&logoColor=107a8bF"></a>
+  <a href="@rocket_scientist_7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-daeaf6?style=for-the-badge&logo=telegram&logoColor=107a8bF"></a>
   <a href="https://www.linkedin.com/in/ravshanbek-xojamuratov-80aa26218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-daeaf6?style=for-the-badge&logo=linkedin&logoColor=107a8b"></a> 
 <!--   <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="ravshanbekxojamuratov65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a> -->
